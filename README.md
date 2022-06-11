@@ -1,10 +1,14 @@
 # ComputerVSComputer
+
+------Click this link to PLAY!!-------
+https://niided.github.io/ComputerVSComputer/
+
+
 A game originally made for iPhone but made it into WebGL.
 
 This is a game ( kind of a game like Super Smash Bros. ) where you can edit your character's status or
 action style and make them fight automatically.
 
-Sorry but its just a test... But I'll make this better in the near future.
 
 
 ---HOW TO PLAY---
@@ -24,6 +28,7 @@ MORE...
 At the character selection scene, touch "Go to change script".
 After the scene changes, select a character and take a look at the algorithm ( Character's attack style.
 How the characters are thinking and fighting ).
+
 
 
 ------Click this link to PLAY!!-------
