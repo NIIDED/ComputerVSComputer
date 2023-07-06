@@ -32,7 +32,10 @@ How the characters are thinking and fighting ).
 
 
 Special thanks to the cute characters from the asset store on Unity. 
+Sunny Land
 https://assetstore.unity.com/packages/2d/characters/sunny-land-103349?locale=ja-JP#description
+Ninja Sprite Sheet
+https://assetstore.unity.com/packages/2d/characters/ninja-sprite-sheet-free-93901?locale=ja-JP
 
 
 ------Click this link to PLAY!!-------
