@@ -31,5 +31,9 @@ How the characters are thinking and fighting ).
 
 
 
+Special thanks to the cute characters from the asset store on Unity. 
+https://assetstore.unity.com/packages/2d/characters/sunny-land-103349?locale=ja-JP#description
+
+
 ------Click this link to PLAY!!-------
 https://niided.github.io/ComputerVSComputer/
